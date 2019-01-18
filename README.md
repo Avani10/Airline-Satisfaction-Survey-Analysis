@@ -1,5 +1,4 @@
 # Airline-Satisfaction-Survey-Analysis
-Analysis of ratings by customers to different airlines
 
 We analyzed a 2015 Customer satisfaction survey of 30k responses with 15 attributes for various airlines.
 
